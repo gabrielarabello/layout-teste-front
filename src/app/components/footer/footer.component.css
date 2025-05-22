@@ -1,0 +1,32 @@
+.footer {
+  background-color: #003f88;
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer .logo {
+  height: 40px;
+  margin-bottom: 1rem;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: underline;
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.links {
+  margin-top: 1rem;
+}
+
+.redes img {
+  width: 24px;
+  margin: 0.5rem;
+}

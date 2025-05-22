@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nome": "Plano Dental 1",
+    "preco": 30.00,
+    "descricao": "Rol ANS, Prótese unitária em dentes anteriores e posteriores em cerômero, Procedimentos em ortodontia."
+  },
+  {
+    "id": 2,
+    "nome": "Plano Dental 2",
+    "preco": 80.00,
+    "descricao": "Plano Dental 1, Prótese removível (inclusive prótese total), prótese unitária em dentes anteriores e posteriores em cerômero."
+  },
+  {
+    "id": 3,
+    "nome": "Plano Dental 3",
+    "preco": 150.00,
+    "descricao": "Plano Dental 2, Documentação ortondôntica completa, manutenção mensal, clareamento com moldeira (gel moldeira) e placa miorrelaxante."
+  },
+  {
+    "id": 4,
+    "nome": "Plano Dental 4",
+    "preco": 200.00,
+    "descricao": "Plano Dental 3, Prótese fixa, inclusive em porcelana e clareamento em consultório."
+},
+{
+    "id": 5,
+    "nome": "Plano Dental 5",
+    "preco": 250.00,
+    "descricao": "Plano Dental 4, Cobertura ortodôntica com alinhador invisível com instalação, Prótese unitária em dentes anteriores e posteriores em cerômero."
+},
+{
+    "id": 6,
+    "nome": "Plano Dental 6",
+    "preco": 300.00,
+    "descricao": "Plano Dental 5, Restauração, Extração, Clareamento em gel e moldeira (caseiro), Placa miorrelaxante, e muito mais."
+}
+]
