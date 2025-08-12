@@ -10,3 +10,4 @@ export class ContatoComponent {
     alert('Mensagem enviada com sucesso!');
   }
 }
+

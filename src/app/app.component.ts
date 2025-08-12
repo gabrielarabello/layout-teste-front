@@ -13,5 +13,3 @@ import { PlanosComponent } from "./planos/planos.component";
   imports: [ContatoComponent, FooterComponent, HeaderComponent, HeroComponent, PlanosComponent]
 })
 export class AppComponent {}
-
-

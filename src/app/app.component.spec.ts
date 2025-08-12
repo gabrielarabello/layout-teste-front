@@ -17,7 +17,7 @@ describe('AppComponent', () => {
   it(`should have the 'layout-teste-front' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('layout-teste-front');
+    expect(app['title']).toEqual('layout-teste-front');
   });
 
   it('should render title', () => {
@@ -27,3 +27,4 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('h1')?.textContent).toContain('Hello, layout-teste-front');
   });
 });
+
